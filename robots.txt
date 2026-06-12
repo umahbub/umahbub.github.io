@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: umahbub.github.io/sitemap.xml
+Sitemap: https://upalmahbub.github.io/sitemap.xml
